@@ -1,42 +1,47 @@
-# LUCKYWIND Fishing — Super Pro Store
+# LUCKYWIND Fishing V2 — Pro Fishing Store
 
-A polished static fishing storefront designed for GitHub Pages.
+A fishing-first static storefront for GitHub Pages.
 
-## Includes
+## What is new in V2
 
-- 40-product fishing catalog
-- Rods, reels, combos, lures, soft baits and terminal tackle
-- Fishing line, tackle storage, fishing tools and landing nets
-- Apparel and outdoor equipment
-- Freshwater and saltwater collections
-- Species and technique content
-- Search, category filtering and sorting
-- Wishlist and localStorage shopping bag
-- Quick View and product details
-- Deals, new arrivals, collections and fishing guides
-- Pro Angler / trade content
-- FAQ, contact, shipping, returns and warranty pages
-- Favicon and web manifest
-- Responsive mobile/tablet/desktop design
-- Flat GitHub Pages-friendly structure
-- Realistic photography referenced from Pexels
+- Fishing-focused catalog with **68 demo products**
+- Cañas / Rods
+- Carretes / Reels
+- Carnadas & Señuelos / Baits & Lures
+- Tackle
+- Redes & Herramientas / Nets & Tools
+- Ropa / Apparel
+- Outdoor gear
+- Fishing kits
+- Freshwater and saltwater sections
+- Target species page
+- Fishing guides
+- Search, filters and sorting
+- Wishlist
+- Shopping bag with quantity controls
+- Quick View
+- Product detail page
+- Deals, collections and Pro Angler content
+- Favicon
+- Responsive layout
+- GitHub Pages-compatible relative paths
 
-## GitHub Pages
+## Uploading
 
-Upload **all files in this package directly into the root** of the `luckywind-fishing` repository.
+Upload every file from this package into the root of the `luckywind-fishing` repository.
 
-The main file must be:
+Keep `index.html` in the root.
 
-`index.html`
-
-Expected site address:
+Expected future URL:
 
 `https://comodis-pro.github.io/luckywind-fishing/`
 
-## Commercial note
+## Images
 
-Product names, prices, descriptions, ratings and reviews shown in the demo are example content unless replaced with verified business data. The demo shopping bag is front-end only. Connect a trusted payment provider, inventory, taxes, shipping, return policy and legal pages before accepting live orders.
+The storefront uses realistic fishing and outdoor photography referenced from Pexels. Verify current license terms and any additional rights for recognizable people, logos or trademarks before commercial launch.
 
-Photography is referenced from Pexels. Verify current licensing and additional rights before commercial use.
+## Commercial data
+
+Product names, descriptions, ratings, prices and reviews are example storefront data. Replace them with verified inventory, supplier information and live prices before accepting customer orders.
 
 © 2026 LUCKYWIND Fishing. All rights reserved.

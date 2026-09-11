@@ -3,8 +3,8 @@
   "short_name": "LUCKYWIND",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#07100d",
-  "theme_color": "#d8ae35",
+  "background_color": "#07111e",
+  "theme_color": "#e2b83f",
   "icons": [
     {
       "src": "favicon.svg",
