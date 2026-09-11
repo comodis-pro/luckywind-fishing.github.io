@@ -1,32 +1,50 @@
 [
   {
     "name": "Bass",
-    "water": "Freshwater",
-    "favored": "Jigs, worms, jerkbaits, crankbaits"
+    "type": "Freshwater",
+    "gear": "Casting rods, baitcasters, jigs, worms, crankbaits",
+    "img": "angler"
   },
   {
     "name": "Trout",
-    "water": "Freshwater",
-    "favored": "Ultralight spinners, spoons, small plastics"
+    "type": "Freshwater",
+    "gear": "Ultralight rods, 1000 reels, spoons, micro lures",
+    "img": "lake"
   },
   {
     "name": "Catfish",
-    "water": "Freshwater",
-    "favored": "Heavy rigs, circle hooks, bait setups"
+    "type": "Freshwater",
+    "gear": "Heavy rods, bait rigs, circle hooks, sinkers",
+    "img": "lake"
+  },
+  {
+    "name": "Walleye",
+    "type": "Freshwater",
+    "gear": "Medium-light rods, jigs, crankbaits, leaders",
+    "img": "lake"
   },
   {
     "name": "Redfish",
-    "water": "Saltwater",
-    "favored": "Inshore jigs, soft plastics, live-bait rigs"
+    "type": "Saltwater",
+    "gear": "Inshore rods, 3000\u20134000 reels, paddletails",
+    "img": "ocean"
   },
   {
     "name": "Snook",
-    "water": "Saltwater",
-    "favored": "Jerkbaits, paddle tails, topwater"
+    "type": "Saltwater",
+    "gear": "Fast rods, jerkbaits, topwater, fluorocarbon",
+    "img": "ocean"
   },
   {
     "name": "Striped Bass",
-    "water": "Saltwater",
-    "favored": "Surf plugs, swimbaits, bucktails"
+    "type": "Saltwater",
+    "gear": "Surf rods, bucktails, plugs, braided line",
+    "img": "shore"
+  },
+  {
+    "name": "Panfish",
+    "type": "Freshwater",
+    "gear": "Ultralight rods, small hooks, micro spoons",
+    "img": "lake"
   }
 ]

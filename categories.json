@@ -1,54 +1,52 @@
 [
   {
-    "name": "Rods",
-    "count": 6
+    "name": "Cañas",
+    "icon": "🎣",
+    "desc": "Spinning, casting, surf, inshore, travel and ultralight."
   },
   {
-    "name": "Reels",
-    "count": 5
+    "name": "Carretes",
+    "icon": "⚙️",
+    "desc": "Spinning, baitcasting, surf, inshore and offshore."
   },
   {
     "name": "Combos",
-    "count": 3
+    "icon": "🎯",
+    "desc": "Matched rod + reel setups for complete rigs."
   },
   {
-    "name": "Lures",
-    "count": 4
+    "name": "Carnadas & Señuelos",
+    "icon": "🪱",
+    "desc": "Jerkbaits, crankbaits, soft plastics, jigs and topwater."
   },
   {
-    "name": "Soft Baits",
-    "count": 2
+    "name": "Tackle",
+    "icon": "🪝",
+    "desc": "Hooks, weights, swivels, leaders, floats and rigging."
   },
   {
-    "name": "Terminal Tackle",
-    "count": 2
+    "name": "Redes y Herramientas",
+    "icon": "🥅",
+    "desc": "Landing nets, pliers, cutters, grippers and scales."
   },
   {
-    "name": "Fishing Line",
-    "count": 3
+    "name": "Almacenamiento",
+    "icon": "📦",
+    "desc": "Tackle boxes, bags, packs and lure cases."
   },
   {
-    "name": "Tackle & Storage",
-    "count": 2
-  },
-  {
-    "name": "Fishing Tools",
-    "count": 2
-  },
-  {
-    "name": "Landing Nets",
-    "count": 2
-  },
-  {
-    "name": "Apparel",
-    "count": 3
+    "name": "Ropa",
+    "icon": "🧢",
+    "desc": "UPF shirts, hoodies, jackets, caps, gloves and pants."
   },
   {
     "name": "Outdoor",
-    "count": 4
+    "icon": "🏕️",
+    "desc": "Dry bags, coolers, lights, backpacks and trip gear."
   },
   {
     "name": "Kits",
-    "count": 3
+    "icon": "🧰",
+    "desc": "Beginner, bass, saltwater, surf, boat and guide bundles."
   }
 ]
