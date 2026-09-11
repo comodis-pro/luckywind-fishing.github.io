@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://comodis-pro.github.io/luckywind-fishing/sitemap.xml

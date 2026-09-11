@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bass",
+    "water": "Freshwater",
+    "favored": "Jigs, worms, jerkbaits, crankbaits"
+  },
+  {
+    "name": "Trout",
+    "water": "Freshwater",
+    "favored": "Ultralight spinners, spoons, small plastics"
+  },
+  {
+    "name": "Catfish",
+    "water": "Freshwater",
+    "favored": "Heavy rigs, circle hooks, bait setups"
+  },
+  {
+    "name": "Redfish",
+    "water": "Saltwater",
+    "favored": "Inshore jigs, soft plastics, live-bait rigs"
+  },
+  {
+    "name": "Snook",
+    "water": "Saltwater",
+    "favored": "Jerkbaits, paddle tails, topwater"
+  },
+  {
+    "name": "Striped Bass",
+    "water": "Saltwater",
+    "favored": "Surf plugs, swimbaits, bucktails"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bass Weekend",
+    "description": "A complete bass-focused setup for a weekend on the lake."
+  },
+  {
+    "name": "Freshwater Essentials",
+    "description": "General-purpose gear for lakes, rivers and ponds."
+  },
+  {
+    "name": "Saltwater Ready",
+    "description": "Coastal gear for inshore and surf sessions."
+  },
+  {
+    "name": "Beginner Setup",
+    "description": "Simple, balanced products for first-time anglers."
+  },
+  {
+    "name": "Pro Picks",
+    "description": "Higher-performance gear for experienced anglers."
+  }
+]

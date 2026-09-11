@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rods",
+    "count": 6
+  },
+  {
+    "name": "Reels",
+    "count": 5
+  },
+  {
+    "name": "Combos",
+    "count": 3
+  },
+  {
+    "name": "Lures",
+    "count": 4
+  },
+  {
+    "name": "Soft Baits",
+    "count": 2
+  },
+  {
+    "name": "Terminal Tackle",
+    "count": 2
+  },
+  {
+    "name": "Fishing Line",
+    "count": 3
+  },
+  {
+    "name": "Tackle & Storage",
+    "count": 2
+  },
+  {
+    "name": "Fishing Tools",
+    "count": 2
+  },
+  {
+    "name": "Landing Nets",
+    "count": 2
+  },
+  {
+    "name": "Apparel",
+    "count": 3
+  },
+  {
+    "name": "Outdoor",
+    "count": 4
+  },
+  {
+    "name": "Kits",
+    "count": 3
+  }
+]

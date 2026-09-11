@@ -1,0 +1,15 @@
+{
+  "name": "LUCKYWIND Fishing",
+  "short_name": "LUCKYWIND",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07100d",
+  "theme_color": "#d8ae35",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

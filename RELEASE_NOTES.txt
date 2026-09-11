@@ -1,0 +1,7 @@
+LUCKYWIND Fishing Super Pro
+- 40-product catalog
+- Favicon + manifest
+- 20+ support/content pages
+- Search, filters, sorting, wishlist, cart and quick view
+- Freshwater, saltwater and species collections
+- Responsive design
