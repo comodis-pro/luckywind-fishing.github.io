@@ -1,52 +1,62 @@
 [
   {
-    "name": "Cañas",
+    "name": "Rods",
     "icon": "🎣",
-    "desc": "Spinning, casting, surf, inshore, travel and ultralight."
+    "description": "Spinning, casting, surf, inshore, ultralight & travel.",
+    "image": "https://images.pexels.com/photos/12032955/pexels-photo-12032955.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
-    "name": "Carretes",
+    "name": "Reels",
     "icon": "⚙️",
-    "desc": "Spinning, baitcasting, surf, inshore and offshore."
+    "description": "Spinning, baitcasting, surf, inshore & offshore.",
+    "image": "https://images.pexels.com/photos/6739266/pexels-photo-6739266.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
-    "name": "Combos",
-    "icon": "🎯",
-    "desc": "Matched rod + reel setups for complete rigs."
-  },
-  {
-    "name": "Carnadas & Señuelos",
+    "name": "Lures & Baits",
     "icon": "🪱",
-    "desc": "Jerkbaits, crankbaits, soft plastics, jigs and topwater."
+    "description": "Jerkbaits, crankbaits, soft plastics & topwater.",
+    "image": "https://images.pexels.com/photos/6478278/pexels-photo-6478278.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
     "name": "Tackle",
     "icon": "🪝",
-    "desc": "Hooks, weights, swivels, leaders, floats and rigging."
+    "description": "Hooks, line, weights, leaders, swivels & rigs.",
+    "image": "https://images.pexels.com/photos/27365745/pexels-photo-27365745.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
-    "name": "Redes y Herramientas",
+    "name": "Nets & Tools",
     "icon": "🥅",
-    "desc": "Landing nets, pliers, cutters, grippers and scales."
+    "description": "Landing nets, pliers, cutters, grippers & scales.",
+    "image": "https://images.pexels.com/photos/27365745/pexels-photo-27365745.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
-    "name": "Almacenamiento",
-    "icon": "📦",
-    "desc": "Tackle boxes, bags, packs and lure cases."
-  },
-  {
-    "name": "Ropa",
+    "name": "Apparel",
     "icon": "🧢",
-    "desc": "UPF shirts, hoodies, jackets, caps, gloves and pants."
+    "description": "UPF fishing shirts, caps, gloves & layers.",
+    "image": "https://images.pexels.com/photos/32290757/pexels-photo-32290757.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Outdoor",
     "icon": "🏕️",
-    "desc": "Dry bags, coolers, lights, backpacks and trip gear."
+    "description": "Dry bags, coolers, packs & trip essentials.",
+    "image": "https://images.pexels.com/photos/1304473/pexels-photo-1304473.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
-    "name": "Kits",
+    "name": "Kits & Combos",
     "icon": "🧰",
-    "desc": "Beginner, bass, saltwater, surf, boat and guide bundles."
+    "description": "Ready-to-shop setups and tackle bundles.",
+    "image": "https://images.pexels.com/photos/6739266/pexels-photo-6739266.jpeg?auto=compress&cs=tinysrgb&w=1400"
+  },
+  {
+    "name": "Freshwater",
+    "icon": "🐟",
+    "description": "Bass, trout, walleye, catfish & panfish.",
+    "image": "https://images.pexels.com/photos/13021867/pexels-photo-13021867.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  },
+  {
+    "name": "Saltwater",
+    "icon": "🌊",
+    "description": "Inshore, surf, pier & boat fishing gear.",
+    "image": "https://images.pexels.com/photos/12032955/pexels-photo-12032955.jpeg?auto=compress&cs=tinysrgb&w=1500"
   }
 ]

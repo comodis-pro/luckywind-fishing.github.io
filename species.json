@@ -2,49 +2,49 @@
   {
     "name": "Bass",
     "type": "Freshwater",
-    "gear": "Casting rods, baitcasters, jigs, worms, crankbaits",
-    "img": "angler"
+    "gear": "Casting rods • baitcasters • jigs • worms",
+    "image": "https://images.pexels.com/photos/32290757/pexels-photo-32290757.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Trout",
     "type": "Freshwater",
-    "gear": "Ultralight rods, 1000 reels, spoons, micro lures",
-    "img": "lake"
+    "gear": "Ultralight rods • small reels • spoons",
+    "image": "https://images.pexels.com/photos/13021867/pexels-photo-13021867.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Catfish",
     "type": "Freshwater",
-    "gear": "Heavy rods, bait rigs, circle hooks, sinkers",
-    "img": "lake"
+    "gear": "Heavy rods • bait rigs • circle hooks",
+    "image": "https://images.pexels.com/photos/1304473/pexels-photo-1304473.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "name": "Walleye",
     "type": "Freshwater",
-    "gear": "Medium-light rods, jigs, crankbaits, leaders",
-    "img": "lake"
+    "gear": "Medium-light rods • jigs • crankbaits",
+    "image": "https://images.pexels.com/photos/6739266/pexels-photo-6739266.jpeg?auto=compress&cs=tinysrgb&w=1400"
   },
   {
     "name": "Redfish",
     "type": "Saltwater",
-    "gear": "Inshore rods, 3000\u20134000 reels, paddletails",
-    "img": "ocean"
+    "gear": "Inshore rods • 3000–4000 reels • paddle tails",
+    "image": "https://images.pexels.com/photos/12032955/pexels-photo-12032955.jpeg?auto=compress&cs=tinysrgb&w=1500"
   },
   {
     "name": "Snook",
     "type": "Saltwater",
-    "gear": "Fast rods, jerkbaits, topwater, fluorocarbon",
-    "img": "ocean"
+    "gear": "Fast-action rods • topwater • leaders",
+    "image": "https://images.pexels.com/photos/12032955/pexels-photo-12032955.jpeg?auto=compress&cs=tinysrgb&w=1500"
   },
   {
     "name": "Striped Bass",
     "type": "Saltwater",
-    "gear": "Surf rods, bucktails, plugs, braided line",
-    "img": "shore"
+    "gear": "Surf rods • plugs • swimbaits • braid",
+    "image": "https://images.pexels.com/photos/12032955/pexels-photo-12032955.jpeg?auto=compress&cs=tinysrgb&w=1500"
   },
   {
     "name": "Panfish",
     "type": "Freshwater",
-    "gear": "Ultralight rods, small hooks, micro spoons",
-    "img": "lake"
+    "gear": "Ultralight rods • small hooks • micro lures",
+    "image": "https://images.pexels.com/photos/13021867/pexels-photo-13021867.jpeg?auto=compress&cs=tinysrgb&w=1600"
   }
 ]

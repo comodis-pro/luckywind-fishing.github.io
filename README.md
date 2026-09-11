@@ -1,61 +1,49 @@
-# LUCKYWIND Fishing V3
+# LUCKYWIND Fishing
 
-Fishing-first storefront with **98 demo products** and a focus on actual fishing departments.
+Professional fishing storefront with **98 demo products**.
 
-## Departments
+The public storefront is written in English and is organized around real fishing departments: rods, reels, lures & baits, tackle, nets & tools, apparel, outdoor gear and kits & combos.
 
-Cañas, Carretes, Combos, Carnadas & Señuelos, Tackle, Redes y Herramientas, Almacenamiento, Ropa, Outdoor and Kits.
+## Features
 
-## Product focus
-
-- Spinning, casting, surf, inshore, ultralight and travel rods
-- Spinning, baitcasting, surf and offshore reels
-- Rod + reel combos
-- Jerkbaits, crankbaits, topwater, spinnerbaits, spoons, jigs and soft plastics
-- Hooks, weights, swivels, leaders and floats
-- Landing nets, fishing pliers, cutters, grippers and scales
-- Tackle boxes, backpacks, dry bags and coolers
-- UPF shirts, hoodies, jackets, caps, gloves and fishing pants
-- Freshwater, saltwater, species and fishing guides
-- Starter, bass, saltwater, surf, boat, kayak and guide kits
-
-## Website features
-
+- Large fishing hero
 - Search
-- Category filtering
-- Sorting by price and rating
-- Wishlist
-- Shopping bag
-- Quantity controls
+- Department navigation
+- Image category rail
+- Featured product grid
+- Price comparison and ratings
 - Quick View
-- Product detail page
+- Wishlist
+- Shopping cart
+- Product detail pages
 - Collections
 - Deals
-- Fishing guides
-- Freshwater and saltwater sections
-- Target species
+- Freshwater
+- Saltwater
+- Target Species
+- Fishing Guides
 - Pro Angler
+- New Arrivals
 - Responsive design
 - Favicon
-- Manifest
+- Web manifest
 - 404 page
 - Sitemap
-- GitHub Pages-ready flat structure
 
 ## GitHub Pages
 
-Upload all files directly to the root of the repository:
+Upload every file from this ZIP directly into the root of the `luckywind-fishing` repository.
 
-`https://comodis-pro.github.io/luckywind-fishing/`
+Expected URL:
 
-Keep `index.html` in the repository root.
+https://comodis-pro.github.io/luckywind-fishing/
 
 ## Photography
 
-The storefront uses realistic fishing and outdoor photography referenced from Pexels. Verify current licensing and any additional rights before commercial publication.
+Fishing-focused photography is referenced from Pexels pages selected for rods, reels, lures, tackle and anglers. Verify current license terms and any additional rights before commercial publication.
 
 ## Commercial note
 
-Product names, descriptions, ratings, reviews and prices are demonstration data until replaced with verified live catalog information. The bag is a front-end demo until connected to payment, inventory and fulfillment.
+Product names, prices, ratings, reviews and specifications are demonstration content until replaced with verified live product information. The cart is a front-end demo until real payments, inventory and fulfillment are connected.
 
 © 2026 LUCKYWIND Fishing. All rights reserved.
